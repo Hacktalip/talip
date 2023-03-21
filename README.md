@@ -1,0 +1,2 @@
+# talip
+Mavi tik
